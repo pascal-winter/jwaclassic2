@@ -6,10 +6,10 @@ excerpt: Just the cars we love
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner-talbot-lago-t150c.jpg
+  overlay_image: /assets/images/cartoon car.gif
   actions:
-     - label: "Contact"
-       url: "/contact/"
+     - label: "More"
+       url: "/vso/"
      - label: "About"
        url: "/about/"
 
@@ -17,8 +17,8 @@ header:
 feature_row:
   - image_path: /assets/images/thb-alfa-romeo-giulietta-sprint-speciale-1300-ss.jpg
     alt: #"Bits and Bolts"
-    title: "Alfa Romeo Giulietta SS"
-    excerpt: "Didi is inside"
+    title: "Comment je peux aligner les 3 photos sur une même ligne déjà ?"
+    excerpt: "Didi is inside et il est beau !"
     url: "/Contact/"
     btn_class: "btn--primary"
     btn_label: "Contact"
