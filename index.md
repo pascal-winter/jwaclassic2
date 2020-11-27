@@ -15,7 +15,7 @@ header:
 
 feature_row:
   - image_path: /assets/images/cartoon-car.gif
-    title: "Papy vend sa collec' en 2021"
+    title: "En 2021, Papy vend sa collec'"
     excerpt: "Mise en vente progressive de la collection de véhicules français d'avant-guerre."
     url: "/vso"
     btn_label: "En savoir plus"
