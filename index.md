@@ -22,6 +22,7 @@ feature_row:
     url: "/Contact/"
     btn_class: "btn--primary"
     btn_label: "Contact"
+feature_row2:
   - image_path: /assets/images/thb-delahaye-type-235-235m-breitling.jpg
     alt: #"Bits and Bolts"
     title: "Delahaye 235M Breitling"
@@ -29,6 +30,7 @@ feature_row:
     url: "/contact/"
     btn_class: "btn--primary"
     btn_label: "Contact"
+feature_row3:
   - image_path: /assets/images/thb-talbot-lago-t23-baby-chapron.jpg
     alt: #"Bits and Bolts"
     title: "Talbot Lago T23 Baby"
@@ -39,4 +41,6 @@ feature_row:
 
 ---
 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row" type="center" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="right" %}
