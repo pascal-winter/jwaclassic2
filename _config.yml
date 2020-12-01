@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Nuovalo"
+  name             : "JWA Classic"
   avatar           : "/assets/images/joel-winter-djowinter.jpg"
-  bio              : "JWA Classic"
-  location         : "Global"
+  bio              : "Just the car we love"
+  location         : "France"
   email            : "contact@jwaclassic.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@jwaclassic.com"
+      # url: "mailto:contact@jwaclassic.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -110,16 +110,16 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/JWAClassic/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/djowinter/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pascal-winter-b90099a1/"
+      # url: "https://www.linkedin.com/"
 
 
 # Site Footer
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/JWAClassic/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/djowinter/"
 
 
 # Reading Files

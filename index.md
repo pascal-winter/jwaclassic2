@@ -40,18 +40,29 @@ feature_row3:
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
 
-feature_row4:
-  - title: "Formulaire d'inscription"
-    excerpt: "Pascal, est-ce que tu pourrais ici ajouter un formulaire d'inscription pour receuillir les nom, prénom et email des personnes souhaitant être informées des prochaines ventes ?
-    L'idéal serait d'avoir un titre, les champs à remplir (sur la même ligne si possible pour simplifier) et de la place pour un petit texte. L'emplacement pour une photo aussi.
-    Question 1 : comment on récupère les emails une fois le formulaire rempli ?
-    Question 2 : est-ce qu'on peut ajouter qqs questions, après l'inscription, pour ceux qui veulent répondre ?"
-    url: "/about"
-    btn_label: "S'inscrire"
-    btn_class: "btn--primary"
+feature_row_inscription:
+  - image_path: /assets/images/jolie-photo.jpg
+    title: "Formulaire d'inscription"
+    excerpt: |
+      L'email sera envoye sur contact@jwaclassic.com <br/>
+      Les champs peuvent etre modifies et codifies <br/>
+      <form action="https://formspree.io/f/mqkgdgww" method="POST">
+        <label>
+          Your email:
+          <input type="text" name="_replyto">
+        </label>
+        <label>
+          Your message:
+          <textarea name="message"></textarea>
+        </label>
+        <button type="submit">Send</button>
+      </form>
+    # url: "/about"
+    # btn_label: "S'inscrire"
+    # btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="right" %}
 {% include feature_row id="feature_row3" type="left" %}
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row_inscription" type="center" %}

@@ -14,10 +14,14 @@ feature_row:
 - image_path: /assets/images/cartoon-car.gif
   caption: "(Oui, on a repris la même animation, parce qu'on l'aime bien !)"
   title: "Ma démarche"
-  excerpt: "*(comment on fait pour forcer le retour à la ligne dans ce paragraphe ?)*
-  - Céder progressivement ma collection de véhicules français d'avant-guerre au cours de l'année 2021.
-  - En profiter pour échanger avec d'autres collectionneurs de tous horizons.
-  - Conclure des ventes équitables, sans frais additionel ni prix de réserve, au cours d'enchères originales."
+  excerpt : |
+    *(comment on fait pour forcer le retour à la ligne dans ce paragraphe ?)* <br/>
+    <br/>
+    **Comme Ca**  <br/>
+    * Céder progressivement ma collection de véhicules français d'avant-guerre au cours de l'année 2021.  <br/>
+    * En profiter pour échanger avec d'autres collectionneurs de tous horizons.  <br/>
+    * Conclure des ventes équitables, sans frais additionel ni prix de réserve, au cours d'enchères originales.  <br/>
+
 
 feature_row5:
 - title: "prochaines mises en vente"
