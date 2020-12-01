@@ -4,6 +4,8 @@ main:
     url: /
   - title: "VSO"
     url: /vso/
+  - title: "Inscription"
+    url: /inscription/
   - title: "About"
     url: /about/
   - title: "Contact"
