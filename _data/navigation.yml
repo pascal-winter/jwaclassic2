@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "VSO"
+  - title: "Enchères privées"
     url: /vso/
   - title: "Inscription"
     url: /inscription/
-  - title: "About"
+  - title: "A propos"
     url: /about/
   - title: "Contact"
     url: /contact/
