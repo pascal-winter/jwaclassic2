@@ -1,14 +1,19 @@
 ---
 layout: splash # archive
 permalink: /vso/
-title: "Les petites ventes privées de JWA Classic"
-excerpt: Mode d'emploi
+title: "Les ventes privées de JWA Classic"
+excerpt: "Enchères originales et équitables : mode d'emploi"
 url: "/inscription"
 btn_label: "S'inscrire"
 btn_class: "btn--primary"
 
 header:
-  overlay_image: /assets/images/banner-talbot-lago-t150c.jpg
+  #overlay_color: "#333"
+  overlay_image: /assets/images/banner-delahaye-type-135-135m-chapron.png
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  actions:
+     - label: "Participer"
+       url: "/inscription/"
 
 feature_row:
 - image_path: /assets/images/cartoon-car.gif
@@ -74,18 +79,21 @@ feature_row9:
   Parce que le plaisir de la conduite est irremplaçable: nous vous accueillerons avec plaisir pour venir essayer le véhicule sur les routes pittoresques de la Loire.<br/>
   <br/>
   Le véhicule vous intéresse ? <br/>
-  Parlons-en... Votre offre d'achat pourra être acceptée, avant même la mise en vente du véhicule."
-- image_path: /assets/images/marteau-enchères-hp.jpg
-  title: "Mise aux enchères équitable"
+  Parlons-en... Votre offre pourra être acceptée, avant même la mise en vente du véhicule."
+- image_path: /assets/images/thb-marteau2.jpg
+  title: "Suivi par une mise aux enchères équitable"
   excerpt: "Sans prix de réserve: le prix de départ des enchères sera fixé en fonction de la meilleure offre émise lors de la présentation du véhicule.<br/>
   <br/>
-  Sans frais additionnel pour l’acheteur.
-
-  (METTRE UN LIEN VERS LE MODE D’EMPLOI DETAILLE)
-  EST-CE QU ON PEUT METTRE UN FNOD DE COULEUR DIFFERENT SOUS UN FEATURE ROW?"  
+  Sans frais additionnel pour l’acheteur.<br/>
+  *(METTRE UN LIEN VERS LE MODE D’EMPLOI DETAILLE)<br/>
+  EST-CE QU ON PEUT METTRE UN FNOD DE COULEUR DIFFERENT SOUS UN FEATURE ROW?*"
+- excerpt: "Le mode d'emploi détaillé des mises aux enchères : "
+  url: "/inscription"
+  btn_label: "Plus d'infos"
+  btn_class: "btn--primary"
 
 ---
-# Les ventes privées JWA Classic en 2 temps
+# La mise en vente de chaque véhicule de la collection se déroulera en deux étapes
 
 {% include feature_row id="feature_row9" type="left" %}
 
