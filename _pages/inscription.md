@@ -4,38 +4,34 @@ permalink: /inscription
 title: "Les petites ventes privées de JWA Classic"
 excerpt: Inscription
 
-header:
-  overlay_image: /assets/images/banner-talbot-lago-t150c.jpg
-
 feature_row_inscription:
-  - image_path: /assets/images/jolie-photo.jpg
-    title: "Formulaire d'inscription"
-    excerpt: |
-        L'email sera envoye sur contact@jwaclassic.com <br/>
-        Les champs peuvent etre modifies et codifies
-        VOIR SI ON GARDE UN CHAMP MESSAGE <br/>
+    - image_path: /assets/images/delahaye-type-135-135m-chapron-2.jpg
+      title: "Etre prévenu(e) et participer aux enchères privées JWA Classic"
+      excerpt: |
+        Les véhicules de la collection seront mis en vente courant 2021.<br/>
+        <br/>
+        **Vous pouvez vous inscrire ici pour être prévenu(e) des prochaines ventes.<br/>
+        <br/>
+        Les mises en vente seront principalement communiquées par email aux inscrits.**<br/>
+        <br/>
+        *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE*<br/>
         <form action="https://formspree.io/f/mqkgdgww" method="POST">
         <label>
-          Your name:
-          <input type="text" name="_replyto">
+        E-mail:
+        <input type="text" name="_replyto">
         </label>
-          <label>
-            Your email:
-            <input type="text" name="_replyto">
-          </label>
-          <label>
-            Your message:
-            <textarea name="message"></textarea>
-          </label>
-          <button type="submit">Send</button>
+        <label>
+        Nom et prénom:
+        <input type="text">
+        </label>
+        <button type="submit">S'inscrire</button>
         </form>
       # url: "/about"
       # btn_label: "S'inscrire"
-      # btn_class: "btn--primary"
+      # btn_class: "btn--inverse"
 
 
 ---
-# Page pour inscriptions
-à compléter
+{% include feature_row id="feature_row_inscription" type ="left" %}
 
-{% include feature_row id="feature_row_inscription" type="center" %}
+*ajouter un lien pour retour HP*
