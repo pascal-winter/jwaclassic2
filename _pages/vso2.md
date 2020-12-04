@@ -115,4 +115,4 @@ Les véhicules mis en vente seront choisis dans les semaines à venir (il nous r
 {: .notice--primary}
 
 Retour à la [page d'accueil.](/) <br/>
-Pour être informé(e) des prochaines ventes : [s'inscrire.](/inscription)
+Pour être informé(e) des prochaines ventes : [s'inscrire.](/inscription/)

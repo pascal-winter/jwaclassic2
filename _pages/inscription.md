@@ -39,5 +39,5 @@ feature_row_inscription:
 ---
 {% include feature_row id="feature_row_inscription" type ="left" %}
 
-Enchères privées JWA Classic : [plus d'infos.](/vso2) <br/>
-Retour à la [page d'accueil.](/)
+Enchères privées JWA Classic : [plus d'infos.](/vso2/) <br/>
+Retour à la [page d'accueil.](/home/)
