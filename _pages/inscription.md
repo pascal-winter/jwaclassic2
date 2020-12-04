@@ -1,6 +1,6 @@
 ---
 layout: splash # archive
-permalink: /inscription
+permalink: /inscription/
 title: "Enchères privées JWA Classic"
 excerpt: Inscription
 
