@@ -1,18 +1,24 @@
 ---
 layout: splash # archive
 permalink: /inscription
-title: "Les petites ventes privées de JWA Classic"
+title: "Enchères privées JWA Classic"
 excerpt: Inscription
+
+header:
+#overlay_color: "#333"
+overlay_image: /assets/images/banner-delahaye-type-135-135m-chapron.png
+overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 
 feature_row_inscription:
     - image_path: /assets/images/delahaye-type-135-135m-chapron-2.jpg
-      title: "Etre prévenu(e) et participer aux enchères privées JWA Classic"
+      title: "Enchères privées JWA Classic"
       excerpt: |
         Les véhicules de la collection seront mis en vente courant 2021.<br/>
         <br/>
-        **Vous pouvez vous inscrire ici pour être prévenu(e) des prochaines ventes.<br/>
+        **Les dates et les véhicules choisis seront principalement/prioritairement? communiqués par email aux inscrits.**<br/>
         <br/>
-        Les mises en vente seront principalement communiquées par email aux inscrits.**<br/>
+        Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.<br/>
+        <br/>
         <br/>
         *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE*<br/>
         <form action="https://formspree.io/f/mqkgdgww" method="POST">
@@ -29,9 +35,7 @@ feature_row_inscription:
       # url: "/about"
       # btn_label: "S'inscrire"
       # btn_class: "btn--inverse"
-
-
 ---
 {% include feature_row id="feature_row_inscription" type ="left" %}
 
-*ajouter un lien pour retour HP*
+Retour à la [page d'accueil.](/)
