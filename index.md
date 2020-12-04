@@ -1,8 +1,8 @@
 ---
 layout: splash # archive
 permalink: /
-title: "JWA Classic : Just the cars we love"
-excerpt: "Papy vend sa collec' au cours d'enchères privées"
+title: "JWA Classic : «Just the cars we love»"
+excerpt: "Papy vend sa collec': enchères privées dès le printemps 2021"
 
 header:
   #overlay_color: "#333"
@@ -10,12 +10,12 @@ header:
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 
 feature_row:
-  - image_path: /assets/images/cartoon-car.gif
-    title: "En 2021, Papy vend sa collec'"
-    excerpt: "En 2021, la collection de véhicules français d'avant-guerre de JWA Classic sera mise en vente progressivemment via notre site, au cours d'enchères privées et originales. Pour chaque véhicule : une période dédiée à la présentation détaillée du véhicule, suivie d'une mise aux enchères, sans prix de réserve ni frais additionnel pour l'acheteur."
-    url: "/vso2"
-    btn_label: "En savoir plus"
-    btn_class: "btn--inverse"
+- image_path: /assets/images/cartoon-car.gif
+  title : "En 2021 : «Papy vend sa Collec'»"
+  excerpt: "En 2021, la collection de JWA Classic sera progressivement mise en vente. Un système d'enchères privées au concept renouvelé sera testé pour l'occasion. Celui-ci repose sur trois principes majeurs : pas de frais pour l'acheteur, une période de présentation suffisamment longue pour parfaire son appréciation du véhicule, pas de prix de réserve."
+  url: "/vso2"
+  btn_label: "En savoir plus"
+  btn_class: "btn--inverse"
 
 
 feature_row2:
@@ -40,7 +40,7 @@ feature_row_inscription:
     title: "Etre prévenu(e) et participer aux enchères privées JWA Classic"
     excerpt: |
       Les véhicules de la collection seront mis en vente courant 2021.<br/>
-      **Les dates et les véhicules choisis seront principalement/priorairement? communiqués par email aux insrits.**<br/>
+      **Les dates et les véhicules choisis seront priorairement communiqués par email aux inscrits.**<br/>
       Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.
       <br/>
     url: "/inscription"

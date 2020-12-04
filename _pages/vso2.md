@@ -2,7 +2,7 @@
 layout: splash # archive
 permalink: /vso2/
 title: "Les enchères privées de JWA Classic"
-excerpt: "Mode d'emploi"
+excerpt: "Mode d'emploi pratique"
 url: "/inscription"
 btn_label: "S'inscrire"
 btn_class: "btn--primary"
@@ -50,12 +50,12 @@ feature_row9:
   <br/>
   **Parce que le plaisir de la conduite est irremplaçable:** nous vous accueillerons avec plaisir pour **venir essayer le véhicule sur les routes pittoresques de la Loire.**<br/>
   <br/>
-  **Le véhicule vous intéresse ? Parlons-en...**<br/>
-  Votre offre pourra être acceptée, avant même la mise en vente du véhicule.<br/>
+  **Un véhicule vous intéresse ? Parlons-en...**<br/>
+  Tél: +33 XXXXXXX ou contactVSO@jwaclassic.com AJOUTER LES COORDONNEES et MAIL en lien.<br/>
   <br/>
   *si on garde un ton cartoon (mais est-ce le plus judicieux??), je vois bien l'image de la voiture qui soulève sa carrosserie comme une robe...*"
 - image_path: /assets/images/thb-marteau2.jpg
-  title: "Suivi par une mise aux enchères équitable"
+  title: "Suivi par une mise aux enchères"
   excerpt: "**Sans prix de réserve:** le prix de départ des enchères sera fixé en fonction de la meilleure offre émise lors de la présentation du véhicule.<br/>
   <br/>
   **Sans frais additionnel pour l’acheteur.**<br/>
@@ -72,47 +72,46 @@ feature_row9:
   btn_class: "btn--primary"
 
 ---
-# La mise en vente de chaque véhicule de la collection se déroulera en deux temps
 
-{% include feature_row id="feature_row9" %}
-
-# Petit aperçu de la collection de vieilles françaises de JWA Classic
-Les véhicules mis en vente seront choisis dans les semaines à venir (il nous reste encore du boulot d'ici là!). L'ensemble de la collection est visible sur le site de [JWA-Classic](https://www.jwaclassic.com).
-{% include gallery id="gallery_jwaclassic" caption="Les véhicules mis en vente seront choisis dans les semaines à venir (il nous reste encore du boulot d'ici là!). L'ensemble de la collection est visible sur le site de [JWA-Classic](https://www.jwaclassic.com)." %}
-*le texte est en double, choisir le format qu'on préfère*<br/>
-*quand on clique sur une photo, on atterrit sur la hp de jwa classic,  ou bien sur la page de la voiture sur jwa classic, ou bien sur le blog? A mon avis, plutôt que la page de la voiture jwaclassic*
-<br/>
-<br/>
-<br/>
-# Les enchères privées JWA Classic : le mode d'emploi détaillé
-
-### Les enchères privées de JWA-Classic, reposent sur les principes suivants :
--	JWA Classic met en vente, sur une période donnée, un nombre réduit de véhicules de collection.
--	Une description complète de ces véhicules est proposée sur le site internet de [JWA-Classic](https://www.jwaclassic.com).
--	Toute personne intéressée peut se signaler à JWA-Classic et s’inscrire pour la vente.
+### Les enchères privées de JWA-Classic se déroulent de la façon suivante :
+-	Chaque véhicule proposé à la vente par JWA Classic fait l'objet d'une description détaillée sur le site internet de [JWA-Classic](https://www.jwaclassic.com).
+- Toute personne intéressée peut se signaler à JWA Classic et s'inscrire pour la vente VIA LA PAGE TRUC OU PAR TEL.
+- Un calendrier précis, en deux périodes limitées, est défini pour chaque vente de véhicule.
 {: .notice}
 
 ### Période d'information et de réflexion
--	Pendant une durée de plusieurs semaines (4 à 6), qui ouvre le processus de vente, les véhicules peuvent être examinés sur place et une description complète est disponible en ligne ainsi que sur demande.
--	Dès le début de cette période et jusqu’à son terme, des offres peuvent être déposées auprès de JWA-Classic.
+-	Pendant une durée de quelques semaines, qui ouvre le processus de vente, les véhicules peuvent être examinés sur place dans notre atelier situé en France dans la Loire.
+- Un dossier complétant la description proposée sur le site peut être adressé sur demande à toute personne s'inscrivant pour la vente.
+-	Dès le début de cette période et jusqu’à son terme, des pré-enchères peuvent être déposées auprès de JWA-Classic.
 {: .notice}
 
 ### Mise aux enchères
--	Les enchères se déroulent en ligne sur une période de quelques jours (3 à 5).
--	La mise à prix se fait sur la base de la meilleure offre recueillie pendant la période précédente, augmentée de 10%.
--	Au terme de la période d’enchères le véhicule est attribué à la meilleure offre.
--	Il n’y a pas de frais à acquitter par l’acheteur.
--	Dans le cas où cet acheteur est le meilleur offreur de la première période, un bonus égal à l’augmentation qui a servi à déterminer le montant de la mise à prix lui est attribué.
+-	Les enchères se déroulent en ligne sur une période de quelques jours.
+-	La mise à prix se fait sur la base de la meilleure pré-enchère recueillie pendant la période précédente. C'est cette somme, augmentée de 10%, qui constitue la mise à prix.
+-	Au terme de la période d’enchères, le véhicule est classiquement attribué à la meilleure enchère.
+-	Aucun frais n'est à acquitter par le meilleur enchérisseur.
+-	CAS PARTICULIER : dans le cas où ce dernier se trouve être aussi le meilleur "pré-enchérisseur", un bonus égal à l'augmentation qui a servi à déterminer le montant de la mise à prix lui est attribué.
 {: .notice}
 
 ### Exemple
-> -	Meilleure offre de la première période : 200 000 €
+> -	Meilleure pré-enchère de la première période : 200 000 €
 -	Montant de la mise à prix : 220 000 € soit une majoration de 20 000 €
 -	Meilleure enchère à l’issue de la vente : 280 000 €
--	Prix tout frais compris par l’acheteur :<br/>
-  --> S’il ne s’agit pas du meilleur offreur de la première période : 280 000 €<br/>
-  --> S’il s’agit du meilleur offreur de la 1ère période : 280 000 - 20 000 = 260 000 €
+-	Prix tous frais compris par l’acheteur :<br/>
+  --> S’il ne s’agit pas du meilleur "pré-enchérisseur" de la première période : 280 000 €<br/>
+  --> S’il s’agit du meilleur "pré-enchérisseur" de la 1ère période : 280 000 - 20 000 = 260 000 €
 {: .notice--primary}
+
+LIEN VERS LE REGLEMENT COMPLET DES ENCHERES PRIVEES
+
+### Petit aperçu de la collection de JWA Classic
+Les véhicules mis en vente seront choisis dans les semaines à venir. Une partie de la collection est visible sur le site de [JWA-Classic](https://www.jwaclassic.com).
+{: .notice}
+{% include gallery id="gallery_jwaclassic" %}
+*quand on clique sur une photo, on atterrit sur la hp de jwa classic,  ou bien sur la page de la voiture sur jwa classic, ou bien sur le blog? A mon avis, plutôt que la page de la voiture jwaclassic, mais il faudra s'assurer d'une unité de présentation et de la présence d'un lien de retour*
+<br/>
+<br/>
+<br/>
 
 Retour à la [page d'accueil.](/) <br/>
 Pour être informé(e) des prochaines ventes : [s'inscrire.](/inscription/)

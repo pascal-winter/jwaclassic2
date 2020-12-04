@@ -16,7 +16,7 @@ feature_row_inscription:
       excerpt: |
         Les véhicules de la collection seront mis en vente courant 2021.<br/>
         <br/>
-        **Les dates et les véhicules choisis seront principalement/prioritairement? communiqués par email aux inscrits.**<br/>
+        **Les dates et les véhicules choisis seront prioritairement communiqués par email aux inscrits.**<br/>
         <br/>
         Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.<br/>
         <br/>
@@ -40,4 +40,4 @@ feature_row_inscription:
 {% include feature_row id="feature_row_inscription" type ="left" %}
 
 Enchères privées JWA Classic : [plus d'infos.](/vso2/) <br/>
-Retour à la [page d'accueil.](/home/)
+Retour à la [page d'accueil.](/)
