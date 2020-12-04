@@ -90,25 +90,20 @@ Les véhicules mis en vente seront choisis dans les semaines à venir (il nous r
 -	JWA Classic met en vente, sur une période donnée, un nombre réduit de véhicules de collection.
 -	Une description complète de ces véhicules est proposée sur le site internet de [JWA-Classic](https://www.jwaclassic.com).
 -	Toute personne intéressée peut se signaler à JWA-Classic et s’inscrire pour la vente.
-
+{: .notice}
 
 ### Période d'information et de réflexion
 -	Pendant une durée de plusieurs semaines (4 à 6), qui ouvre le processus de vente, les véhicules peuvent être examinés sur place et une description complète est disponible en ligne ainsi que sur demande.
-
 -	Dès le début de cette période et jusqu’à son terme, des offres peuvent être déposées auprès de JWA-Classic.
-
+{: .notice}
 
 ### Mise aux enchères
 -	Les enchères se déroulent en ligne sur une période de quelques jours (3 à 5).
-
 -	La mise à prix se fait sur la base de la meilleure offre recueillie pendant la période précédente, augmentée de 10%.
-
 -	Au terme de la période d’enchères le véhicule est attribué à la meilleure offre.
-
 -	Il n’y a pas de frais à acquitter par l’acheteur.
-
 -	Dans le cas où cet acheteur est le meilleur offreur de la première période, un bonus égal à l’augmentation qui a servi à déterminer le montant de la mise à prix lui est attribué.
-
+{: .notice}
 
 ### Exemple
 > -	Meilleure offre de la première période : 200 000 €

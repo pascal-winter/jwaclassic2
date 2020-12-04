@@ -5,12 +5,13 @@ title: "Enchères privées JWA Classic"
 excerpt: Inscription
 
 header:
-#overlay_color: "#333"
-overlay_image: /assets/images/banner-delahaye-type-135-135m-chapron.png
-overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  #overlay_color: "#333"
+  overlay_image: /assets/images/banner-delahaye-type-135-135m-chapron.png
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+
 
 feature_row_inscription:
-    - image_path: /assets/images/delahaye-type-135-135m-chapron-2.jpg
+    - image_path: /assets/images/jolie-photo.jpg
       title: "Enchères privées JWA Classic"
       excerpt: |
         Les véhicules de la collection seront mis en vente courant 2021.<br/>
@@ -20,7 +21,7 @@ feature_row_inscription:
         Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.<br/>
         <br/>
         <br/>
-        *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE*<br/>
+        *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE ET CHOISIR UNE PHOTO*<br/>
         <form action="https://formspree.io/f/mqkgdgww" method="POST">
         <label>
         E-mail:
@@ -38,4 +39,5 @@ feature_row_inscription:
 ---
 {% include feature_row id="feature_row_inscription" type ="left" %}
 
+Enchères privées JWA Classic : [plus d'infos.](/vso2) <br/>
 Retour à la [page d'accueil.](/)

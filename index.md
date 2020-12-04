@@ -8,15 +8,11 @@ header:
   #overlay_color: "#333"
   overlay_image: /assets/images/banner-talbot-lago-t150c.jpg
   overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
-  actions:
-     - label: "En savoir plus"
-       url: "/vso2/"
-
 
 feature_row:
   - image_path: /assets/images/cartoon-car.gif
     title: "En 2021, Papy vend sa collec'"
-    excerpt: "En 2021, la collection de véhicules français d'avant-guerre de JWA Classic sera mise en vente progressivemment via notre site, au cours d'enchères privées et originales. "
+    excerpt: "En 2021, la collection de véhicules français d'avant-guerre de JWA Classic sera mise en vente progressivemment via notre site, au cours d'enchères privées et originales. Pour chaque véhicule : une période dédiée à la présentation détaillée du véhicule, suivie d'une mise aux enchères, sans prix de réserve ni frais additionnel pour l'acheteur."
     url: "/vso2"
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
@@ -47,7 +43,6 @@ feature_row_inscription:
       **Les dates et les véhicules choisis seront principalement/priorairement? communiqués par email aux insrits.**<br/>
       Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.
       <br/>
-      *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE*<br/>
     url: "/inscription"
     btn_label: "S'inscrire"
     btn_class: "btn--primary"
@@ -56,4 +51,3 @@ feature_row_inscription:
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="right" %}
 {% include feature_row id="feature_row_inscription" type="left" %}
-{% include feature_row id="feature_row3" type="right" %}
