@@ -97,6 +97,11 @@ feature_row9:
 
 {% include feature_row id="feature_row9" type="left" %}
 
+> blablabla
+{: .notice--primary}
+
+> A nice blockquote
+{: .notice--warning}
 
 {% include feature_row id="feature_row5" type="right" %}
 
