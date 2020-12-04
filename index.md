@@ -44,26 +44,16 @@ feature_row_inscription:
     title: "Etre prévenu(e) et participer aux enchères privées JWA Classic"
     excerpt: |
       Les véhicules de la collection seront mis en vente courant 2021.<br/>
-      **Inscrivez-vous pour être prévenu(e) des prochaines ventes.<br/>
-      Les mises en vente seront principalement communiquées par email aux inscrits.**<br/>
+      **Les dates et les véhicules choisis seront principalement/priorairement? communiqués par email aux insrits.**<br/>
+      Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.
+      <br/>
       *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE*<br/>
-      <form action="https://formspree.io/f/mqkgdgww" method="POST">
-      <label>
-      E-mail:
-      <input type="text" name="_replyto">
-      </label>
-      <label>
-      Nom et prénom:
-      <input type="text">
-      </label>
-      <button type="submit">S'inscrire</button>
-      </form>
-    # url: "/Inscription"
-    # btn_label: "S'inscrire"
-    # btn_class: "btn--inverse"
+    url: "/inscription"
+    btn_label: "S'inscrire"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="right" %}
-{% include feature_row id="feature_row3" type="left" %}
-{% include feature_row id="feature_row_inscription" type="right" %}
+{% include feature_row id="feature_row_inscription" type="left" %}
+{% include feature_row id="feature_row3" type="right" %}
