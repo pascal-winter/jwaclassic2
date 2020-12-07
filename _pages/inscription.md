@@ -14,9 +14,7 @@ feature_row_inscription:
     - image_path: /assets/images/jolie-photo.jpg
       title: "Enchères privées JWA Classic"
       excerpt: |
-        Les véhicules de la collection seront mis en vente courant 2021.<br/>
-        <br/>
-        **Les dates et les véhicules choisis seront prioritairement communiqués par email aux inscrits.**<br/>
+        **Les dates et les véhicules choisis seront définis début 2021 et seront prioritairement communiqués par email aux inscrits.**<br/>
         <br/>
         Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.<br/>
         <br/>
@@ -24,12 +22,16 @@ feature_row_inscription:
         *REVOIR LA MISE EN FORME DES CHAMPS POUR S INSCRIRE ET CHOISIR UNE PHOTO*<br/>
         <form action="https://formspree.io/f/mqkgdgww" method="POST">
         <label>
-        E-mail:
-        <input type="text" name="_replyto">
+        Nom :
+        <input type="text">
         </label>
         <label>
-        Nom et prénom:
+        Prénom :
         <input type="text">
+        </label>
+        <label>
+        E-mail:
+        <input type="text" name="_replyto">
         </label>
         <button type="submit">S'inscrire</button>
         </form>
@@ -39,5 +41,4 @@ feature_row_inscription:
 ---
 {% include feature_row id="feature_row_inscription" type ="left" %}
 
-Enchères privées JWA Classic : [plus d'infos.](/vso2/) <br/>
 Retour à la [page d'accueil.](/)
