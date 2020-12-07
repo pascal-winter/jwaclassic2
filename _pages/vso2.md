@@ -79,13 +79,13 @@ feature_row9:
 - Un calendrier précis, en deux périodes limitées, est défini pour chaque vente de véhicule.
 {: .notice}
 
-### Période d'information et de réflexion
+### Première période : information et réflexion
 -	Pendant une durée de quelques semaines, qui ouvre le processus de vente, les véhicules peuvent être examinés sur place dans notre atelier situé en France dans la Loire.
 - Un dossier complétant la description proposée sur le site peut être adressé sur demande à toute personne s'inscrivant pour la vente.
 -	Dès le début de cette période et jusqu’à son terme, des pré-enchères peuvent être déposées auprès de JWA-Classic.
 {: .notice}
 
-### Mise aux enchères
+### Deuxième période : mise aux enchères
 -	Les enchères se déroulent en ligne sur une période de quelques jours.
 -	La mise à prix se fait sur la base de la meilleure pré-enchère recueillie pendant la période précédente. C'est cette somme, augmentée de 10%, qui constitue la mise à prix.
 -	Au terme de la période d’enchères, le véhicule est classiquement attribué à la meilleure enchère.
@@ -105,7 +105,7 @@ feature_row9:
 LIEN VERS LE REGLEMENT COMPLET DES ENCHERES PRIVEES
 
 ### Petit aperçu de la collection de JWA Classic
-Les véhicules mis en vente seront choisis dans les semaines à venir. Une partie de la collection est visible sur le site de [JWA-Classic](https://www.jwaclassic.com).
+Une partie de la collection est visible sur le site de [JWA-Classic](https://www.jwaclassic.com).
 {: .notice}
 {% include gallery id="gallery_jwaclassic" %}
 *quand on clique sur une photo, on atterrit sur la hp de jwa classic,  ou bien sur la page de la voiture sur jwa classic, ou bien sur le blog? A mon avis, plutôt que la page de la voiture jwaclassic, mais il faudra s'assurer d'une unité de présentation et de la présence d'un lien de retour*
@@ -113,5 +113,4 @@ Les véhicules mis en vente seront choisis dans les semaines à venir. Une parti
 <br/>
 <br/>
 
-Retour à la [page d'accueil.](/) <br/>
-Pour être informé(e) des prochaines ventes : [s'inscrire.](/inscription/)
+Retour à la [page d'accueil.](/)
