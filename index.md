@@ -105,7 +105,7 @@ répondre.<br/>
 <br/>
 Confraternellement<br/>
 <br/>
-**Joël Winter**, dit – désormais - **« Papy »**
+**Joël Winter, dit – désormais - « Papy »**
 {: .notice}
 
 {% include feature_row id="feature_row_vide" type="right" %}
