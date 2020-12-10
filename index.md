@@ -1,7 +1,7 @@
 ---
 layout: splash # archive
 permalink: /
-title: "Papy vend sa collec'"
+title: "Quand Papy vend sa collection"
 excerpt: "JWA Classic"
 
 header:
@@ -85,7 +85,7 @@ Au fil du temps, j’ai constitué une petite collection qui a comblé toutes me
 <br/>
 Ceci-dit, force est de constater que ces nobles dames vieillissent moins vite que nous. Alors,
 l’âge avançant et la raison prenant le pas sur la passion, j’ai dû me rendre à l’évidence : il va bien falloir me défaire de mes véhicules. Vous avez compris le pourquoi de « Papy vend sa
-collec’ ».<br/>
+collec’».<br/>
 <br/>
 Mais « Papy » va prendre son temps.<br/>
 <br/>
@@ -103,7 +103,7 @@ Je vous laisse découvrir le dispositif dans les différents onglets du site et 
 approfondir certains points, n’hésitez pas à me contacter. Je me ferai un plaisir de vous
 répondre.<br/>
 <br/>
-Confraternellement<br/>
+Confraternellement,<br/>
 <br/>
 **Joël Winter, dit – désormais - « Papy »**
 {: .notice}
