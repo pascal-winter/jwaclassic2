@@ -9,6 +9,7 @@ header:
 
 ---
 ## Joel Winter - classic car enthusiast and collector.
+VOIR COMMENT TU SOUHAITES TE PRESENTER EN QQS LIGNES
 After a successful entrepreneur career in actuarial consultancy (JWA and Winter & Associes), Joel decided to fully pursue his passion for Delage, Delahaye and Talbot-Lago. He established JWA Classic in 2003 in Belmont-de-la-Loire and has been collecting, restoring and touring classic cars since then.
 
 Ma philosophie :
