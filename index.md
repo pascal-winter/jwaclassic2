@@ -116,7 +116,7 @@ Joël Winter (*)<br/>
 
 # Petit aperçu de la collection de JWA Classic
 {% include gallery id="gallery_jwaclassic" %}
-D'autres véhicules de la collection sont présentés ur le site de [JWA-Classic](https://www.jwaclassic.com).
+D'autres véhicules de la collection sont présentés sur le site de [JWA-Classic](https://www.jwaclassic.com).
 {: .notice}
 *METTRE A JOUR LES LIENS DES PHOTOS VERS LES PAGES VOITURES DU SITE JWA*
 <br/>
