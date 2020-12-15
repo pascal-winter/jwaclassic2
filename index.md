@@ -104,7 +104,7 @@ Mais je n’ai pas l’intention de m’arrêter de rouler en anciennes, et je v
 Je laisse la nouvelle génération prendre la suite. Je suis confiant, leurs méthodes novatrices pourront apparaitre décalées au regard des usages établis. Mais qu’on ne s’y trompe pas, l’esprit du collectionneur prévaudra encore sur celui du marchand.<br/>
 <br/>
 Voilà, vous savez tout de mes motivations, je ne vous prendrai pas plus de temps.<br/>
-Je vous laisse découvrir le dispositif « XXX » dans les différents onglets du site et si vous souhaitez approfondir certains points, n’hésitez pas à me contacter. Je me ferai un plaisir de vous répondre.<br/>
+Je vous laisse découvrir le dispositif d'enchères privées dans les différents onglets du site et si vous souhaitez approfondir certains points, n’hésitez pas à me contacter. Je me ferai un plaisir de vous répondre.<br/>
 <br/>
 Bien fraternellement,<br/>
 <br/>
