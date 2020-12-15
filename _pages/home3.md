@@ -1,6 +1,6 @@
 ---
 layout: splash # archive
-permalink: /
+permalink: /truc
 title: "Papy vend sa collec'"
 excerpt: "JWA Classic"
 
@@ -66,16 +66,7 @@ feature_row3:
     btn_label: "En savoir plus"
     btn_class: "btn--inverse"
 
-feature_row_inscription:
-  - image_path: /assets/images/delahaye-type-135-135m-chapron-2.jpg
-    title: "Etre prévenu(e) et participer aux enchères privées JWA Classic"
-    excerpt: |
-      **Les dates et les véhicules choisis seront fixés début 2021 et seront priorairement communiqués par email aux inscrits.**<br/>
-      Vous pouvez vous inscrire ici pour être prévenu(e) par mail des prochaines ventes.
-      <br/>
-    url: "/inscription"
-    btn_label: "S'inscrire"
-    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="feature_row" type="right" %}

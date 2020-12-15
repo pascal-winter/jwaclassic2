@@ -24,7 +24,6 @@ feature_row:
     * En profiter pour échanger avec d'autres collectionneurs de tous horizons.  <br/>
     * Conclure des ventes équitables, sans frais additionel ni prix de réserve, au cours d'enchères originales.  <br/>
 
-
 feature_row5:
 - title: "prochaines mises en vente"
   excerpt: "Les véhicules de la collection seront mis en vente courant 2021. Inscrivez-vous pour être prévenu(e) des prochaines mises en vente."
@@ -167,8 +166,7 @@ feature_row9:
 
 # Papy vend sa collec' - Transparence, échanges et prix équitables
 
-{% include feature_row id="feature_row" type="left" %}
-
+{% include feature_row id="feature_row" type="left" color= "blue"%}
 
 
      Les véhicules mis en vente seront choisis dans les semaines qui viennent.<br/>

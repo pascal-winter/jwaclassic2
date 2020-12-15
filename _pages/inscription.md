@@ -1,8 +1,8 @@
 ---
 layout: splash # archive
 permalink: /inscription/
-title: "Enchères privées JWA Classic"
-excerpt: Inscription
+title: "Inscription aux enchères privées JWA Classic"
+excerpt: 
 
 header:
   #overlay_color: "#333"
