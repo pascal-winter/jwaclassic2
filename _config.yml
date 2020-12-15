@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JWA Classic"
+title                    : "JWA Classic Private Auctions"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JWA Classic"
+name                     : "JWA Classic Private Auctions"
 description              : "Just the car we love"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"  # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "JWA Classic Private Auctions"
+  name             : "JWA Classic"
   avatar           : "/assets/images/joel-winter-djowinter.jpg"
   bio              : "Just the car we love"
   location         : "France"
