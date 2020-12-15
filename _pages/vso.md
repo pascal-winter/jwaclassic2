@@ -166,7 +166,7 @@ feature_row9:
 
 # Papy vend sa collec' - Transparence, échanges et prix équitables
 
-{% include feature_row id="feature_row" type="left" color= "blue"%}
+{% include feature_row id="feature_row" type="left"%}
 
 
      Les véhicules mis en vente seront choisis dans les semaines qui viennent.<br/>
