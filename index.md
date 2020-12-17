@@ -72,15 +72,18 @@ feature_row_vide:
 excerpt:
 
 gallery_jwaclassic:
-- url: https://www.jwaclassic.com
+- url: https://www.jwaclassic.com/rochet-schneider/
   image_path: /assets/images/thb-rochet-schneider-26-six.jpg
   title: Rochet Schneider
-- url: https://www.jwaclassic.com
+  image_caption: Rochet Schneider 26-Six 1930
+- url: https://www.jwaclassic.com/delahaye-135-135m-chapron/
   image_path: /assets/images/thb-delahaye-type-135-135m-chapron.jpg
   title: Delahaye 135M Chapron
-- url: https://www.jwaclassic.com
+  image_caption: Delahaye 135M Chapron
+- url: https://www.jwaclassic.com/delahaye-235-235m-breitling/
   image_path: /assets/images/thb-delahaye-type-235-235m-breitling.jpg
   title: Delahaye 235M
+  image_caption: Delahaye 235M
 
 ---
 {% include feature_row id="feature_row" type="right" %}
@@ -115,12 +118,9 @@ Joël Winter (*)<br/>
 {% include feature_row id="feature_row_vide" type="right" %}
 
 # Petit aperçu de la collection de JWA Classic
+Plus de véhicules de la collection sont présentés sur le site de [JWA-Classic](https://www.jwaclassic.com).
 {% include gallery id="gallery_jwaclassic" %}
-D'autres véhicules de la collection sont présentés sur le site de [JWA-Classic](https://www.jwaclassic.com).
-{: .notice}
-*METTRE A JOUR LES LIENS DES PHOTOS VERS LES PAGES VOITURES DU SITE JWA*
-<br/>
-<br/>
-<br/>
+
+{% include feature_row id="feature_row_vide" type="right" %}
 
 {% include feature_row id="feature_row_inscription" type="left" %}

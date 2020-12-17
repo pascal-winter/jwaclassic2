@@ -6,8 +6,8 @@ excerpt: "Mode d'emploi pratique"
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner-delahaye-type-135-135m-chapron.png
-  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/banner-jwa-private-auctions.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 
 gallery_jwaclassic:
 - url: https://www.jwaclassic.com
@@ -61,8 +61,7 @@ feature_row_inscription:
   --> S’il s’agit du meilleur "pré-enchérisseur" de la 1ère période : 280 000 - 20 000 = 260 000 €
 {: .notice--primary}
 
-### Voir le règlement complet des ventes aux enchères privées ici
-AJOUTER LE LIEN
+### Voir le règlement complet des ventes aux enchères privées [ici.](/JWA-Auctions-terms/)
 <br/>
 <br/>
 {% include feature_row id="feature_row_inscription" type="left" %}

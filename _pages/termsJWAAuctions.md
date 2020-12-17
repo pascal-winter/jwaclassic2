@@ -1,9 +1,15 @@
 ---
-permalink:
-title: "Terms and Privacy Policy"
-last_modified_at: 2016-06-06
+permalink: /JWA-Auctions-terms/
+title: "Terms and Privacy Policy JWA Auctions"
+last_modified_at: 2020-12-17
 toc: true
 ---
+## JWA Private Auctions - Terms and conditions
+
+TO BE COMPLETED
+
+
+
 
 ## Privacy Policy
 
@@ -54,3 +60,6 @@ What this means for you:
 * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
 
 Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+<br/>
+<br/>
+Retour à la [page d'accueil.](/)
