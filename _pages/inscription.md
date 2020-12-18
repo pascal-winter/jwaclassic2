@@ -1,13 +1,13 @@
 ---
 layout: splash # archive
 permalink: /inscription/
-title: "Prochaines enchères privées JWA Classic"
-excerpt: Inscription
+title: "Inscription aux enchères privées JWA Classic"
+excerpt:
 
 header:
   #overlay_color: "#333"
-  overlay_image: /assets/images/banner-jwa-private-auctions.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_color: "#006666"
+  overlay_filter:  # same as adding an opacity of 0.5 to a black background
 
 
 feature_row_inscription:

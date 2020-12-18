@@ -59,13 +59,13 @@ feature_row5:
   btn_class: "btn--primary"
 
 gallery_jwaclassic:
-- url: https://www.jwaclassic.com
+- url: /assets/images/thb-esquisse.jpg
   image_path: /assets/images/thb-rochet-schneider-26-six.jpg
   title: Rochet Schneider
-- url: https://www.jwaclassic.com
+- url: /assets/images/thb-calendrier.jpg
   image_path: /assets/images/thb-delahaye-type-135-135m-chapron.jpg
   title: Delahaye 135M Chapron
-- url: https://www.jwaclassic.com
+- url: /assets/images/thb-alfa-romeo-giulietta-sprint-speciale-1300-ss.jpg
   image_path: /assets/images/thb-delahaye-type-235-235m-breitling.jpg
   title: Delahaye 235M
 
@@ -92,6 +92,11 @@ feature_row9:
   btn_class: "btn--primary"
 
 ---
+
+{% include gallery id="gallery_jwaclassic" %}
+
+
+
 # La mise en vente de chaque véhicule de la collection se déroulera en deux étapes
 
 {% include feature_row id="feature_row9" type="left" %}

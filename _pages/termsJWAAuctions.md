@@ -1,8 +1,14 @@
 ---
+layout: splash #tags #categories #posts
+#entries_layout: grid
 permalink: /JWA-Auctions-terms/
 title: "Terms and Privacy Policy JWA Auctions"
 last_modified_at: 2020-12-17
-toc: true
+
+header:
+  #overlay_color: "#333"
+  overlay_color: "#006666"
+  overlay_filter:  # same as adding an opacity of 0.5 to a black background
 ---
 ## JWA Private Auctions - Terms and conditions
 
