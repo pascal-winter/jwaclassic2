@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collage version="2" format="1600:1067" orientation="landscape" theme="picturegrid" shadows="0" captions="1" albumUID="2e36ccd7e6fd1218417204d645238dc1">
+ <albumTitle>p-rochet-scheider-26-six</albumTitle>
+ <albumDate>octobre 2011</albumDate>
+ <background type="solid" color="FFFFFFFF"/>
+ <spacing value="0.009620"/>
+ <node x="0.000000" y="0.000000" w="0.500000" h="1.000000" theta="0.000000" scale="509.000000">
+  <theme>noborder</theme>
+  <src>$My Documents\GitHub\jwaclassic2\assets\images\p-rochet-scheider-26-six\gallery-rochet-schneider-26-six-5.jpg</src>
+  <uid>118cce042a3d831d0000000000000000</uid>
+ </node>
+ <node x="0.500000" y="0.000000" w="0.500000" h="1.000000" theta="0.000000" scale="509.000000">
+  <theme>noborder</theme>
+  <src>$My Documents\GitHub\jwaclassic2\assets\images\p-rochet-scheider-26-six\gallery-rochet-schneider-26-six-3.jpg</src>
+  <uid>eb34d30c2d54b17d0000000000000000</uid>
+ </node>
+</collage>
