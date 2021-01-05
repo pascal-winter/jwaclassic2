@@ -22,7 +22,7 @@ feature_row:
 ## Nous contacter
 Une question sur une voiture ou bien sur les enchères privées ?<br/>
 Vous pouvez me contacter par mail, je me ferai un plaisir de vous répondre :<br/> [contact@jwaclassic.com](mailto:contact@jwaclassic.com)<br/>
-AJOUTER NUMERO DE TEL ?
+
 
 
 ## Notre atelier vous accueille à Belmont de la Loire
