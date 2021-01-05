@@ -5,30 +5,27 @@ permalink: /about/
 title: "A propos"
 classes: wide
 header:
-  overlay_image: /assets/images/belmont-de-la-loire-road.jpg
+  overlay_image: /assets/images/Banner_Presse.jpg
 
 ---
-# A l'écart des grandes métropoles encombrées
-Le siège social de JWA Classic est situé en France, dans le département de la Loire.<br/>
-1h20 de Lyon en voiture, 2h30 de Paris en TGV + Voiture.
-C’est une région aux routes idéales pour quiconque aime conduire des voitures de collection. A l’écart des grandes métropoles encombrées….<br/>
-<br/>
-
 # Notre histoire
-C’est en 2009 que Joël Winter, alors qu’il venait de prendre sa retraite, a décidé d’apporter son soutien financier à une jeune entreprise œuvrant dans la restauration et l’achat-vente de véhicules de collection.<br/>
-Ce soutien s’est traduit notamment par l’achat d’épaves à restaurer.<br/>
-L’histoire a tourné court mais un certain nombre de voitures sont encore là de même que l’activité de trading.<br/>
+![image](/assets/images/about-20170520_170024.jpg){: .align-center .width-seventy}
+
+C'est en 2003 qu'après une carrière professionnelle dans l’actuariat, Joël Winter prend sa retraite. Pas question de rester inactif, il décide alors d’apporter son soutien à une jeune entreprise œuvrant dans la restauration et l’achat-vente de véhicules de collection en France, dans la Loire.<br/>
 <br/>
-JWA Classic se concentre maintenant sur :
-- le négoce et la restauration de véhicules de collection (Delage, Delahaye, Talbot-Lago... en résumé, toutes les "French classic cars" et plus particulièrement les "French pre war cars")<br/>
-- les recherches historiques sur véhicules anciens français<br/>
-<br/>
-Plus d'infos sur [le site JWA-Classic](https://www.jwaclassic.com).<br/>
+Dans la continuité, en 2009, il crée JWA Classic et se concentre sur :<br/>
+- la restauration et le négoce de véhicules de collection (Delage, Delahaye, Talbot-Lago…en résumé, toutes les « French Classic Cars » et plus particulièrement les « French Pre War Cars »)
+- les recherches historiques sur véhicules anciens français.
 <br/>
 
-# Et aujourd'hui
-En 2022, à 70 ans passés, Joël Winter a décidé de passer la main à ses enfants, Anne-Cécile, Pascal et Olivier. Tous les trois maîtrisent plusieurs langues (français, anglais, espagnol, portugais et chinois principalement) et sont très mobiles.<br/>
+Plus d'infos sur le site de [JWA-Classic](https://www.jwaclassic.com).<br/>
 <br/>
-Leur objectif est de poursuivre l’activité d’achat – vente dans un cadre restreint de collectionneurs amis et de faire évoluer le stock de voitures tant en qualité qu’en nombre.<br/>
+
+En 2022, à 70 ans passés, il décide de passer la main à ses trois enfants, pour progressivement se concentrer uniquement sur le plaisir de la conduite.<br/>
 <br/>
-# Nous préserverons les relations privilégiées. Venez nous voir à Belmont de la Loire.
+Les trois enfants, c’est nous, Anne-Cécile, Pascal et Olivier. Littéralement disséminés aux quatre coins du monde, nous travaillons néanmoins ensemble et avec Joël, notre papa, qui lui est sur place auprès du garage et des voitures.<br/>
+<br/>
+![image](/assets/images/jolie-photo.jpg){: .align-center .width-seventy}
+<br/>
+Notre objectif est de poursuivre l’activité d’achat-vente de JWA Classic, mais dans un cadre restreint de collectionneurs amis. C’est aussi une opportunité pour nous de mieux découvrir cet univers, tout en bénéficiant d’une transmission de savoir de première main.
+<br/>
